@@ -28926,5 +28926,13 @@
         </URLs>
         <Type>Script</Type>
         <Description>Auto Start, Split, Reset (by Yuki.kaco)</Description>
+<AutoSplitter>
+  <Games>
+    <Game>GO TO BED</Game>
+  </Games>
+  <URLs>
+    <URL>https://raw.githubusercontent.com/Giovannipro7YT/GO-TO-BED-Autosplitter/refs/heads/main/GTB.asl</URL>
+  </URLs>
+</AutoSplitter>
     </AutoSplitter>
 </AutoSplitters>
